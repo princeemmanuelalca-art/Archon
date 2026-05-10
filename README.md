@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Archon — The Intelligent Architect
+# Archon — The Intelligent Architect
 
 **A RAG-powered intelligent document assistant built for the CortexX Hackathon 2026.**
 
